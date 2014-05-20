@@ -1,0 +1,25 @@
+{
+    // indention
+    "detect_indentation": false,
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true,
+
+    // file save
+    "default_line_ending": "unix",
+    "trim_trailing_white_space_on_save": true,
+    "ensure_newline_at_eof_on_save": true,
+    "save_on_focus_lost": true,
+
+    // sublime behavior
+    "tab_completion": false,
+    "close_windows_when_empty": true,
+    "enable_tab_scrolling": true,
+    "fade_fold_buttons": false,
+    "highlight_line": true,
+    "minimap_scroll_to_clicked_text": true,
+    "word_wrap": false,
+
+    // origami
+    "origami_auto_close_empty_panes": true,
+    "origami_auto_zoom_on_focus": 0.6
+}
