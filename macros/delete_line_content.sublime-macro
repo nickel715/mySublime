@@ -1,0 +1,8 @@
+[
+    {"command": "move_to", "args": {"to": "hardeol"}},
+    // {"command": "add_to_kill_ring", "args": {"forward": true}},
+    // {"command": "right_delete"},
+    {"command": "move_to", "args": {"to": "bol", "extend": true}},
+    // {"command": "add_to_kill_ring", "args": {"forward": false}},
+    {"command": "left_delete"}
+]
