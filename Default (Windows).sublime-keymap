@@ -3,5 +3,7 @@
     { "keys": ["alt+delete"], "command": "run_macro_file", "args": {"file": "Packages/mySublime/macros/delete_subword_forward.sublime-macro"} },
     { "keys": ["ctrl+shift+,"], "command": "run_macro_file", "args": {"file": "Packages/mySublime/macros/close_row_by_semicolon.sublime-macro"} },
     { "keys": ["ctrl+alt+/"], "command": "run_macro_file", "args": {"file": "Packages/mySublime/macros/comment_row_hash.sublime-macro"} },
-    { "keys": ["ctrl+alt+k"], "command": "run_macro_file", "args": {"file": "Packages/mySublime/macros/delete_line_content.sublime-macro"} }
+    { "keys": ["ctrl+alt+k"], "command": "run_macro_file", "args": {"file": "Packages/mySublime/macros/delete_line_content.sublime-macro"} },
+    { "keys": ["alt+c"], "command": "run_macro_file", "args": {"file": "Packages/mySublime/macros/copy_line.sublime-macro"} },
+    { "keys": ["alt+x"], "command": "run_macro_file", "args": {"file": "Packages/mySublime/macros/cut_line.sublime-macro"} }
 ]
