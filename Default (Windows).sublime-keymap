@@ -4,4 +4,5 @@
     { "keys": ["ctrl+shift+,"], "command": "run_macro_file", "args": {"file": "Packages/mySublime/macros/close_row_by_semicolon.sublime-macro"} },
     { "keys": ["ctrl+alt+/"], "command": "run_macro_file", "args": {"file": "Packages/mySublime/macros/comment_row_hash.sublime-macro"} },
     { "keys": ["ctrl+alt+k"], "command": "run_macro_file", "args": {"file": "Packages/mySublime/macros/delete_line_content.sublime-macro"} }
+    { "keys": ["ctrl+e"], "command": "run_macro_file", "args": {"file": "Packages/mySublime/macros/copy.sublime-macro"}}
 ]
