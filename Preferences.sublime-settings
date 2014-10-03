@@ -20,6 +20,5 @@
     "word_wrap": false,
 
     // origami
-    "origami_auto_close_empty_panes": true,
-    "origami_auto_zoom_on_focus": 0.6
+    "origami_auto_close_empty_panes": true
 }
